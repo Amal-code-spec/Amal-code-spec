@@ -1,7 +1,7 @@
 <!-- Profile ReadMe -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Muja!;Welcome+to+my+GitHub+profile!;I+love+coding+and+open-source!&center=true&width=380&height=45&color=58a6ff&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+AmalIrfan!;Welcome+to+my+GitHub+profile!;I+love+coding+and+open-source!&center=true&width=380&height=45&color=58a6ff&vCenter=true&pause=1000&size=25" />
 </p>
 
 <p align="center">
