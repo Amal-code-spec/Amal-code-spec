@@ -26,16 +26,7 @@
   <img src="https://skillicons.dev/icons?i=js,Laravel,Php,.netcore,tailwind,git,github,figma,vscode" />
 </p>
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muja&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muja&theme=github-dark-blue&hide_border=true" height="180"/>
-</p>
-
----
 
 ### 🧠 Top Skills
 
